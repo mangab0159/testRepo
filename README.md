@@ -5,3 +5,4 @@ testText1
 
 branch2
 testText1
+testText2
